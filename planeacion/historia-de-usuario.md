@@ -1,11 +1,14 @@
-# Historia de usuario
+# Plantilla de historia de usuario
 
-- ID: HU-01
-- Titulo:
-- Como: aprendiz
-- Quiero:
-- Para:
+**ID:** HU-XX
 
-## Criterios de aceptacion
+**Como** [tipo de usuario],
 
-- Dado que el usuario visita la pagina, cuando consulta la informacion, entonces debe verla correctamente.
+**quiero** [funcionalidad que necesito],
+
+**para** [beneficio esperado].
+
+## Criterios de aceptación
+
+- **Dado** [contexto inicial], **cuando** [acción], **entonces** [resultado esperado].
+- **Dado** [contexto inicial], **cuando** [acción], **entonces** [resultado esperado].

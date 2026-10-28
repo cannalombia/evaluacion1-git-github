@@ -1,16 +1,24 @@
-# Reporte de bug
+# Plantilla de reporte de bug
 
-- Titulo:
-- Descripcion:
-- Entorno:
+## Título
+Descripción breve del error.
+
+## Descripción
+Explicación del problema encontrado.
 
 ## Pasos para reproducir
-1. Abrir la pagina.
-2. Hacer clic en el enlace que genera el Error.
-3. Verificar
+1. Abrir la página web.
+2. Realizar la acción que genera el error.
+3. Observar el comportamiento.
 
 ## Resultado esperado
-El enlace debe llevar a la seccion correspondiente.
+Describir el comportamiento correcto.
 
 ## Resultado obtenido
-El enlace no lleva a la seccion correcta.
+Describir el comportamiento real observado.
+
+## Evidencias
+Agregar capturas de pantalla, si están disponibles.
+
+## Estado
+Abierto / En proceso / Cerrado.
