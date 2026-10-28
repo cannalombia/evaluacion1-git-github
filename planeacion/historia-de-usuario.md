@@ -2,6 +2,8 @@
 
 **ID:** HU-XX
 
+**Título:** Nombre de la historia
+
 **Como** [tipo de usuario],
 
 **quiero** [funcionalidad que necesito],
@@ -11,4 +13,4 @@
 ## Criterios de aceptación
 
 - **Dado** [contexto inicial], **cuando** [acción], **entonces** [resultado esperado].
-- **Dado** [contexto inicial], **cuando** [acción], **entonces** [resultado esperado].
+- **Dado** [contexto inicial], **cuando** [acción], **entonces** [resultado esperado].[acción], **entonces** [resultado esperado].
