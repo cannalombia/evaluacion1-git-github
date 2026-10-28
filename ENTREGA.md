@@ -5,4 +5,4 @@
 - Usuario de GitHub: cannalombia
 - URL del repositorio: https://github.com/cannalombia/evaluacion1-git-github
 - URL del tablero (GitHub Projects): https://github.com/users/cannalombia/projects/5
-- Número del issue del bug: Pendiente de crear
+- Número del issue del bug: 1
