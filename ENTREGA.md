@@ -1,8 +1,8 @@
 # Entrega · Evaluación 1 · Git y GitHub
 
-- Nombre completo:
+- Nombre completo: Andres Felipe Pinzon Del Valle
 - Ficha: 3349882
-- Usuario de GitHub:
-- URL del repositorio:
-- URL del tablero (GitHub Projects):
-- Número del issue del bug:
+- Usuario de GitHub: cannalombia
+- URL del repositorio: https://github.com/cannalombia/evaluacion1-git-github
+- URL del tablero (GitHub Projects): https://github.com/users/cannalombia/projects/5
+- Número del issue del bug: Pendiente de crear
